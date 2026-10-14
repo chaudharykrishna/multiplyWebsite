@@ -1,0 +1,21 @@
+{
+  "name": "Multiply",
+  "short_name": "Multiply",
+  "description": "Practical, well-designed software for real-world businesses. Makers of SpotSafe 360.",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#F4F1E9",
+  "theme_color": "#2B2A28",
+  "icons": [
+    {
+      "src": "assets/icons/brand-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/brand-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
