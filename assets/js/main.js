@@ -4,7 +4,7 @@
 
   /* values still owed by the team. empty slots render nothing until set */
   var CONFIG = {
-    gameUrl: "https://chaudharykrishna.github.io/spotsafe360/",
+    gameUrl: "https://spotsafe360final.onrender.com/login.html",
     email: "hello@multiply.com",
     whatsapp: "",                  // e.g. "+97798…" turns the call/whatsapp card on
     socials: {
